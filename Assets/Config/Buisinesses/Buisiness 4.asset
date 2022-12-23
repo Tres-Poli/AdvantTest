@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92db3753bd4c6e14d9cbff01769f4003, type: 3}
+  m_Name: Buisiness 4
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Buisiness 4
+  <IncomeDelaySeconds>k__BackingField: 17
+  <BaseLevel>k__BackingField: 0
+  <BasePrice>k__BackingField: 1000
+  <BaseIncome>k__BackingField: 1000
+  <Upgrade1>k__BackingField:
+    <Name>k__BackingField: Upgrade1
+    <Price>k__BackingField: 15000
+    <IncomeFactorPercents>k__BackingField: 100
+  <Upgrade2>k__BackingField:
+    <Name>k__BackingField: Upgrade2
+    <Price>k__BackingField: 50000
+    <IncomeFactorPercents>k__BackingField: 200
