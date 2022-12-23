@@ -42,13 +42,4 @@ public sealed class PlayerController :
             Destroy(gameObject);
         }
     }
-
-    protected override void OnApplicationQuit()
-    {
-        base.OnApplicationQuit();
-
-        _incomeEvent.OnIncome -= OnIncome;
-        _incomeEvent.OnWithdraw -= OnWithdraw;
-        Instance = null;
-    }
 }

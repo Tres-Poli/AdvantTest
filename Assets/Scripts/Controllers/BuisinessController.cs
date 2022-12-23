@@ -34,13 +34,6 @@ public sealed class BuisinessController :
         StartCoroutine(DoIncomeProgress());
     }
 
-    protected override void OnApplicationQuit()
-    {
-        base.OnApplicationQuit();
-
-        StopAllCoroutines();
-    }
-
     #region Data activities
 
 

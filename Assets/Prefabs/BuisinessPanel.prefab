@@ -130,8 +130,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 40
-  m_fontSizeBase: 40
+  m_fontSize: 35
+  m_fontSizeBase: 35
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -562,7 +562,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1053, y: 600}
+  m_SizeDelta: {x: 972, y: 600}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2183704727082008161
 CanvasRenderer:
@@ -739,8 +739,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 40
-  m_fontSizeBase: 40
+  m_fontSize: 35
+  m_fontSizeBase: 35
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -874,8 +874,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 40
-  m_fontSizeBase: 40
+  m_fontSize: 35
+  m_fontSizeBase: 35
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1624,7 +1624,6 @@ MonoBehaviour:
   _name: {fileID: 6660344320810471434}
   _price: {fileID: 8279714504457653287}
   _incomeFactor: {fileID: 3569491083189203267}
-  _inactivePanel: {fileID: 0}
 --- !u!114 &1374555724005812093
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2125,7 +2124,6 @@ MonoBehaviour:
   _name: {fileID: 3915414198754636542}
   _price: {fileID: 4470136824816887203}
   _incomeFactor: {fileID: 2716608750319414467}
-  _inactivePanel: {fileID: 0}
 --- !u!114 &3715328426836647659
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2590,8 +2588,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 40
-  m_fontSizeBase: 40
+  m_fontSize: 35
+  m_fontSizeBase: 35
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18

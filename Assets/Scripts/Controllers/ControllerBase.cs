@@ -14,8 +14,11 @@ public abstract class ControllerBase<T, Z, N> : MonoBehaviour
         _model = GetComponent<Z>();
     }
 
-    protected virtual void OnApplicationQuit()
+    protected virtual void OnApplicationFocus(bool hasFocus)
     {
-        _model.SaveData(_data);
+        if (!hasFocus)
+        {
+            _model.SaveData(_data);
+        }
     }
 }
