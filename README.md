@@ -4,4 +4,4 @@
 
 Простенький Idler/clicker про прокачку бизнесов. 
 
-Инструменты: MVC паттерн, ScriptableObjects
+Основные инструменты: MVC паттерн, ScriptableObjects
